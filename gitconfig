@@ -1,0 +1,17 @@
+[user]
+  name = W3Security
+  email = alerts@log4j.codes
+[core]
+  editor = cyberoslab
+[github]
+  user = cvedb
+[push]
+  default = current
+[http]
+  sslVerify = true
+[pull]
+  rebase = false
+[remote "origin"]
+  prune = true
+[init]
+  defaultBranch = main
